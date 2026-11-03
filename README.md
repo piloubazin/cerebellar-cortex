@@ -3,10 +3,12 @@ Specialized pipelines for the segmentation of cerebellar
 surfaces at ultra-high resolution in-vivo and post-mortem
 used in the article:
 
-"Mesoscale imaging of the human cerebellum reveals 
-converging regional specialization of the morphology,
-vascualture and cytoarchitecture.", N Priovoulos et al., 
-under review.
+"Mesoscale imaging of the human cerebellum reveals converging
+regional specialization of its morphology, vasculature, and 
+cytoarchitecture." Priovoulos, N., Bazin, P.-L., Brouwer, 
+E.J.P., Mejias, J.F., De Buck, M.H.S., Alkemade, A., Van Der Zwaag, 
+W., Caan, M.W.A., 2026.Proc. Natl. Acad. Sci. U.S.A. 123, e2516608123. 
+https://doi.org/10.1073/pnas.2516608123
 
 The processing follows the same general pipeline for all 
 data sets, but some steps have been customized in order
